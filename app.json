@@ -1,9 +1,9 @@
 
 {
-  "name": "X-GEN-MD",
+  "name": "A B Abubakar Baloch",
   "description": "Basic WhatsApp Bot",
-  "repository": "https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD",
-  "logo": "https://i.ibb.co/jLnr3K9/20231025-195821.jpg",
+  "repository": "https://github.com/devbaloch01/A-B-Abubakar-Baloch",
+  "logo": "https://telegra.ph/file/d51a6a9bca99f0f84630e.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
   "env": {
     "SESSION_ID": {
